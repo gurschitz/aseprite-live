@@ -1,0 +1,14 @@
+{
+  "name": "aseprite-live",
+  "displayName": "Aseprite Live",
+  "description": "Lets a local MCP server (Claude Code) run Lua in this Aseprite, on the sprite you have open.",
+  "version": "0.1.0",
+  "author": { "name": "Gerald Urschitz" },
+  "license": "MIT",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+      { "path": "./aseprite-live.lua" }
+    ]
+  }
+}

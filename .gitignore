@@ -1,0 +1,4 @@
+node_modules/
+dist/
+server/smoke.png
+server/tools-test-sheet.png
